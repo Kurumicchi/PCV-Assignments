@@ -7,3 +7,4 @@ NRP: 5024241024
 * `2-ti-eq.py` — berisi penerapan transformasi intensitas dan ekualisasi histogram, dilarang menggunakan func bawaan package
 * `3-filter-spasial.py` — berisi penerapan filter spasial
 * `4-model-warna.py` — konversi RGB, CMYK, HSI, HSV
+* `5-morphology.py` — erosi, dilasi, opening, closing
